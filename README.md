@@ -1,3 +1,8 @@
+#
+<p align="center">
+   <img src="https://github.com/LamaAlmajhad/test/assets/98522894/8c35fc7f-1835-4dae-815d-ca6c7678eaac" alt="Circlight logo" height="auto" width="auto">
+</p>
+
 # 💫 About Circlight:
 Are you a parent that have kids you pick up from school? Then this solution is for you! <br><br>Circlight solution helps parents pick up their kids more efficiently with out having to go through the long crowded waits under the blistering scorching Sun. Subsequently minimizing traffic jams and bottle necks. Adding an IOT Bracelet, we will increase  the safety and well-being of your kids!
 
