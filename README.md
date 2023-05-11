@@ -68,5 +68,4 @@ Delegator|Khalidmoh@gmail.com|Khalid12$
 </div>
 
 
-## 🐦 Jira Account 
- https://2022-1st-gp15.atlassian.net/jira/software/projects/QQ2022/boards/1/roadmap
+
