@@ -50,7 +50,7 @@ Delegator|Khalidmoh@gmail.com|Khalid12$
 <h3>📲 Launching from APK file</h3>
 <ul>
 <li>in your device Open your browser</li> 
-   <li> Pase this link <strong> https://github.com/RAlbesher/2022-GP1-15.git </strong> </li>
+   <li> Paste this link <strong> https://github.com/RAlbesher/2022-GP1-15.git in the URL inside your browser</strong> </li>
 <li> Find the APK folder <strong>Circlight APK</strong>  download it in your device </li> 
 <li> Open Downloads</li> 
 <li> Tap on the APK file and tap Yes when prompted</li> 
