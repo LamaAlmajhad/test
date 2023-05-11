@@ -28,10 +28,10 @@ Are you a parent who picks up their children from school? Then this solution is 
 
 User|Email|Password 
 :-:|---|:-:
-Admin|school441@gmail.com|
-AfternoonShift Teacher|shahad12@gmail.com|[@RenadAlbesher](https://github.com/RenadXD)
-Parent|Faten Alharbi|[@FatenAlharbi](https://github.com/isfaten5)
-Delegator|Shahad Abahussain|[@ShahadAbahussain](https://github.com/ShahadKSU)
+Admin|school441@gmail.com|School441$
+AfternoonShift Teacher|shahad12@gmail.com|Shahad12$
+Parent|reemamoh@gmail.com|Reema12$
+Delegator|Khalidmoh@gmail.com|Khalid12$
 </div>
 
 
