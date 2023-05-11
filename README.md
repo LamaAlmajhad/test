@@ -14,7 +14,7 @@ Are you a parent who picks up their children from school? Then this solution is 
 تعد منصة  <strong> سيركلايت</strong>  حلاً يتيح للآباء بإصطحاب أطفالهم بشكل أكثر كفاءة دون الحاجة إلى المرور بفترة الانتظار الطويلة والمزدحمة تحت أشعة الشمس الحارقة. نتيجة لذلك ، عندما يصل أحد الوالدين إلى المدرسة ، سيضيء سوار ال   <strong>IOT</strong> الذكي الخاص بالطفل بلون المنطقة التي يتواجد بها الوالد وهكذا سوف يستطيع الطفل معرفة أن والده بالخارج وعند أي منطقة. يمكنك أيضًا <strong> تفويض</strong> شخص ما لإصطحاب طفلك في غيابك بسهولة. كما أنه أصبح بإمكانك التواصل مع المدرسة ومعرفة أخر الأخبار والمستجدات من خلال منصة  <strong> سيركلايت</strong> التي جعلت الاتصال المدرسي أسهل وأكثر كفاءة. كما انه سيوفر  <strong> سيركلايت</strong> لوحة معلومات للمعلم داخل المدرسة. بحيث يمكن بسهولة وكفاءة مراقبة عملية إصطحاب الأطفال حيث سوف يتم اظهار اسم ولي الامر حين مجيئه في <strong> لوحه المعلومات </strong> وأيضا سوف يضئ سوار الطفل بمكان المنطقه التي يتواجد فيها والدة وبذلك سوف يسمح للطفل بالخروج. نتيجة لذلك ، سيتم دائمًا مراعاة سلامة طفلك وأمانة.
 </div>
 
-# 💻 Technology Used:
+# 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # 🌐 Socials:
@@ -35,11 +35,36 @@ Delegator|Khalidmoh@gmail.com|Khalid12$
 </div>
 
 
+<h2>:memo: Launch Instructions</h2>
+<h3>💻 Launching from Visual studio/Android studio</h3>
+<ol>
+<li> Open <strong>2022-GP1-3</strong> repository on GitHub</li>
+<li> Click on the <strong> code</strong> button</li>
+<li> Download <strong>.zip</strong> file</li>
+<li> Unzip the file </li>
+<li> Open <strong> Android Studio</strong> or <strong> Visual Studio Code</strong>  </li>
+<li> Click on <strong> File > Open > Location</strong> of the saved unzipped file then click on Ok</li>
+<li> Turn on an Android Emulator or connect an android mobile to your computer using USB </li>
+<li> Run the <strong>Elfaa </strong> application </li>
+</ol>
+<h3>📲 Launching from APK file</h3>
+<ul>
+<h4>Install the APK file on your Android smartphone directly from your browser</h4>
+<li> Open your browser</li> 
+<li> Open <strong>2022-GP1-3</strong> repository on GitHub</li>
+<li> Find the APK file to download in <strong>Elfaa APK</strong> folder</li> 
+<li> Tap it – you should then be able to see it downloading on the top bar of your device</li>
+<li> Open Downloads</li> 
+<li> Tap on the APK file and tap Yes when prompted</li> 
+<li> The app will begin installing on your device, then you can open it </li> 
+</ul>
 
 ## 🐦 Latest Tweet
+
 <div align="center">
    
 [![](https://gtce.itsvg.in/api?username=circlight)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+   
 </div>
 
 
