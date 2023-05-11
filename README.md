@@ -1,6 +1,6 @@
 #
 <p align="center">
-   <img src="https://github.com/LamaAlmajhad/test/assets/98522894/8c35fc7f-1835-4dae-815d-ca6c7678eaac" alt="Circlight logo" height="auto" width="auto">
+   <img src="https://github.com/LamaAlmajhad/test/assets/98522894/8c35fc7f-1835-4dae-815d-ca6c7678eaac" alt="Circlight logo" height="500" width="700">
 </p>
 
 
@@ -35,11 +35,13 @@ Delegator|Khalidmoh@gmail.com|Khalid12$
 </div>
 
 
-## 🐦 Jira Account 
- https://2022-1st-gp15.atlassian.net/jira/software/projects/QQ2022/boards/1/roadmap
-
 
 ## 🐦 Latest Tweet
+<div align="center">
+   
 [![](https://gtce.itsvg.in/api?username=circlight)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+</div>
 
 
+## 🐦 Jira Account 
+ https://2022-1st-gp15.atlassian.net/jira/software/projects/QQ2022/boards/1/roadmap
