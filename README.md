@@ -55,7 +55,7 @@ Delegator|Khalidmoh@gmail.com|Khalid12$
 <li> The app will begin installing on your device, when it is done installing you can open it </li> 
 </ul>
 
-##  <img src="https://github.com/LamaAlmajhad/test/assets/98522894/0393ad9f-ee33-4bd8-9621-b9019e2dce1b" alt="github logo" height="20" width="40">  GitHub repository link
+##  <img src="https://github.com/LamaAlmajhad/test/assets/98522894/0393ad9f-ee33-4bd8-9621-b9019e2dce1b" alt="github logo" height="30" width="40">  GitHub repository link
 
 https://github.com/RAlbesher/2022-GP1-15.git 
    
