@@ -24,24 +24,15 @@ Are you a parent who picks up their children from school? Then this solution is 
 
 ## ✍️ Login Credentials
 
--Admin account: 
-Email: Teamfaydh@gmail.com
-Password: Admin123@
+<div align="center">
 
-
--Business account:
-Email: Businessfaydh@gmail.com
-Password: Business12345%
-
-
--charity account:
-Email: charityfaydh@gmail.com
-Password: Charity.123123
-
-
--Individual account:
-Email: ii.shaden.789@gmail.com
-Password: Shaden@789
+User|Email|Password 
+:-:|---|:-:
+Admin|school441@gmail.com|
+AfternoonShift Teacher|shahad12@gmail.com|[@RenadAlbesher](https://github.com/RenadXD)
+Parent|Faten Alharbi|[@FatenAlharbi](https://github.com/isfaten5)
+Delegator|Shahad Abahussain|[@ShahadAbahussain](https://github.com/ShahadKSU)
+</div>
 
 
 ## 🐦 Jira Account 
