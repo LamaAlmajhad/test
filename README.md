@@ -20,21 +20,6 @@ Are you a parent who picks up their children from school? Then this solution is 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/circlight.app/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/circlight) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCiPRqAgLB43SYbf_o84wXvQ) 
 
-
-
-## ✍️ Login Credentials
-
-<div align="center">
-
-User|Email|Password 
-:-:|---|:-:
-Admin|school441@gmail.com|School441$
-AfternoonShift Teacher|shahad12@gmail.com|Shahad12$
-Parent|reemamoh@gmail.com|Reema12$
-Delegator|Khalidmoh@gmail.com|Khalid12$
-</div>
-
-
 <h2>:memo: Launching Instructions</h2>
 <h3>💻 Launching from Visual studio/Android studio</h3>
 <ol>
@@ -56,6 +41,21 @@ Delegator|Khalidmoh@gmail.com|Khalid12$
 <li> Tap on the APK file and tap Yes when prompted</li> 
 <li> The app will begin installing on your device, when it is done installing you can open it </li> 
 </ul>
+
+
+## ✍️ Login Credentials
+
+<div align="center">
+
+User|Email|Password 
+:-:|---|:-:
+Admin|school441@gmail.com|School441$
+AfternoonShift Teacher|shahad12@gmail.com|Shahad12$
+Parent|reemamoh@gmail.com|Reema12$
+Delegator|Khalidmoh@gmail.com|Khalid12$
+</div>
+
+
 
 ## 🐦 Latest Tweet
 
