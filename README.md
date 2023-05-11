@@ -35,28 +35,26 @@ Delegator|Khalidmoh@gmail.com|Khalid12$
 </div>
 
 
-<h2>:memo: Launch Instructions</h2>
+<h2>:memo: Launching Instructions</h2>
 <h3>💻 Launching from Visual studio/Android studio</h3>
 <ol>
-<li> Open <strong>2022-GP1-3</strong> repository on GitHub</li>
-<li> Click on the <strong> code</strong> button</li>
-<li> Download <strong>.zip</strong> file</li>
-<li> Unzip the file </li>
+<li> Open Circlight repository on GitHub</li>
+<li> Click on the green <strong> code</strong> button</li>
+<li> Download the <strong>.zip</strong> folder on you laptop </li>
+<li> Unzip the folder </li>
 <li> Open <strong> Android Studio</strong> or <strong> Visual Studio Code</strong>  </li>
-<li> Click on <strong> File > Open > Location</strong> of the saved unzipped file then click on Ok</li>
-<li> Turn on an Android Emulator or connect an android mobile to your computer using USB </li>
-<li> Run the <strong>Elfaa </strong> application </li>
+<li> Click on <strong> File > Open File > Location</strong> of the saved unzipped file then click on Ok</li>
+<li> Turn on an Android Emulator or connect an android mobile to your computer </li>
+<li> Run the application  by clicking on <strong> Run > Run Without Debugging > Location</strong></li>
 </ol>
 <h3>📲 Launching from APK file</h3>
 <ul>
-<h4>Install the APK file on your Android smartphone directly from your browser</h4>
-<li> Open your browser</li> 
-<li> Open <strong>2022-GP1-3</strong> repository on GitHub</li>
-<li> Find the APK file to download in <strong>Elfaa APK</strong> folder</li> 
-<li> Tap it – you should then be able to see it downloading on the top bar of your device</li>
+<li>in your device Open your browser</li> 
+   <li> Pase this link <strong> https://github.com/RAlbesher/2022-GP1-15.git </strong> </li>
+<li> Find the APK folder <strong>Circlight APK</strong>  download it in your device </li> 
 <li> Open Downloads</li> 
 <li> Tap on the APK file and tap Yes when prompted</li> 
-<li> The app will begin installing on your device, then you can open it </li> 
+<li> The app will begin installing on your device, when it is done installing you can open it </li> 
 </ul>
 
 ## 🐦 Latest Tweet
